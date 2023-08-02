@@ -1,0 +1,10 @@
+.bpw-layout{
+    display: flex;
+    height: auto;
+    position: absolute;
+    left: 20px;
+    right: 30%;
+    top: 90px;
+    bottom: 20px;
+    width: 70% !important;
+}
