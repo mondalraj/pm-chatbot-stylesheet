@@ -8,3 +8,17 @@
     bottom: 20px;
     width: 70% !important;
 }
+
+.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content{
+    background-color: #ff2628;
+}
+
+.bpw-button{
+    color: #ff2628;
+}
+
+.bpw-bot-avatar img, .bpw-bot-avatar svg{
+    background: #ffffff;
+    border: 1px solid #c3c3c3;
+    padding: 5px;
+}
