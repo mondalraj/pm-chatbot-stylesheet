@@ -1,3 +1,5 @@
+
+
 .bpw-layout{
     display: flex;
     height: auto;
@@ -17,7 +19,7 @@
     color: #ff2628 !important;
 }
 
-.bpw-header-icon, .bpw-header-title-container .bpw-bot-avatar{
+.bpw-bot-avatar img, .bpw-bot-avatar svg{
     background: #ffffff !important;
     border: 1px solid #c3c3c3 !important;
     padding: 5px !important;
