@@ -10,15 +10,15 @@
 }
 
 .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content{
-    background-color: #ff2628;
+    background-color: #ff2628 !important;
 }
 
 .bpw-button{
-    color: #ff2628;
+    color: #ff2628 !important;
 }
 
-.bpw-bot-avatar img, .bpw-bot-avatar svg{
-    background: #ffffff;
-    border: 1px solid #c3c3c3;
-    padding: 5px;
+.bpw-header-icon, .bpw-header-title-container .bpw-bot-avatar{
+    background: #ffffff !important;
+    border: 1px solid #c3c3c3 !important;
+    padding: 5px !important;
 }
